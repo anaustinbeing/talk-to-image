@@ -15,6 +15,7 @@ def caption_image(image: Image):
     return caption
 
 def describe_image(image: Image):
+    """Processes an image and describes the image."""
     inputs = processor(image, return_tensors="pt").to(device)
     out = model.generate(**inputs, max_new_tokens=500)
     description = processor.decode(out[0], skip_special_tokens=True)

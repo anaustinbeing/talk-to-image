@@ -69,7 +69,6 @@ user_speech_query = speech_to_text(
 )
 query = user_query if user_query else user_speech_query
 
-# st.write('query: ', query)
 # Process the image and query the agent
 if uploaded_file and query:
     st.write(f'You asked: {query}')
