@@ -4,6 +4,10 @@
 
 To interact with image using LangChain Agents; Ask questions about image like a human and get response about what the image is about.
 
+
+https://github.com/user-attachments/assets/b479b4cf-447e-479a-8f82-a11c3253b392
+
+
 ## High-level flow:
 
 ![unnamed (1)](https://github.com/user-attachments/assets/b63e8ccb-55eb-4b9a-9126-d7ef7f60093b)
