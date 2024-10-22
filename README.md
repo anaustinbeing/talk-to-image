@@ -5,8 +5,6 @@
 To interact with image using LangChain Agents; Ask questions about image like a human and get response about what the image is about.
 
 
-https://github.com/user-attachments/assets/b479b4cf-447e-479a-8f82-a11c3253b392
-
 
 ## High-level flow:
 
